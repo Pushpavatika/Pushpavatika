@@ -115,9 +115,11 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  I believe good code should not merely work.
-  <br>
-  It should be <strong>understandable, maintainable, and purposeful.</strong>
+  <i>
+    I believe good code should not merely work.
+    <br>
+    It should be <strong>understandable, maintainable, and purposeful.</strong>
+  </i>
 </p>
 
 </div>
