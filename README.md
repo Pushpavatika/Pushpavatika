@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<p>
-  <strong style="font-size: 27px;">पुष्पवाटिका · Puṣpavāṭikā</strong>
-</p>
+<h3>पुष्पवाटिका · Puṣpavāṭikā</h3>
 
 <p>
   <i>“Where logic takes root, and creativity blooms.”</i>
@@ -81,7 +79,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <p>
-  <strong style="font-size: 27px;">❈ साधना · I Enjoy Creating ❈</strong>
+  <strong style="font-size: 24px;">❈ साधना · I Enjoy Creating ❈</strong>
 </p>
 
 <p>
