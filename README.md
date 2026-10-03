@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <p>
-  <strong style="font-size: 24px;">❈ साधना · I Enjoy Creating ❈</strong>
+  <strong style="font-size: 27px;">❈ साधना · I Enjoy Creating ❈</strong>
 </p>
 
 <p>
