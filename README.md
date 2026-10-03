@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-❈ 𑁍 N A B U   M A L I T A K A 𑁍 ❈
+❈ 𑁍 N A B U   M A L I K A T A 𑁍 ❈
 
 <img src="deshret/greater.gif" width="500" alt="Puṣpavāṭikā">
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  A small digital sanctuary belonging to <strong>Nabu Malitaka</strong>,<br>
+  A small digital sanctuary belonging to <strong>Nabu Malikata</strong>,<br>
   where lines of code become structures, ideas become creations,<br>
   and simplicity is cultivated with intention.
 </p>
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <p>
-  <strong>Nabu Malitaka</strong>
+  <strong>Nabu Malikata</strong>
 </p>
 
 <p>
@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  ✦ GitHub — <a href="https://github.com/">@nabu-malitaka</a>
+  ✦ GitHub — <a href="https://github.com/">@nabu-malikata</a>
 </p>
 
 <p>
